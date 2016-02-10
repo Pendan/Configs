@@ -140,6 +140,8 @@ echo "---------------------------------------------------"
 }
 
 alias gdb="gdb -q"
+alias burp="java -jar /burp/BurpLoader.jar"
+alias r=reset
 # some more ls aliases
 #alias ll='ls -l'
 #alias la='ls -A'
